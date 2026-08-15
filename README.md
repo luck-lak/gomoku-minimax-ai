@@ -4,6 +4,10 @@
 
 AI 的主要目标是在有限时间内搜索候选落点，根据双方的连珠形态评估棋盘，并返回普通落子位置和可选的技能位置。
 
+## 课程项目网站
+
+[Project 2: 技能五子棋AI](https://www.lamda.nju.edu.cn/guolz/IntroAI/sp2026/project2.html)
+
 ## 功能概览
 
 - 支持自定义棋盘大小；
